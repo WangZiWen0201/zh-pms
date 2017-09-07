@@ -1,5 +1,7 @@
 # izh-pms
-
+pms v-1.0 未使用vuex bus机制出发组件交互 
+ele ui + vue-router + vue-resource + echarts + iconfont
+if help u , plz start it.
 > system-pms
 
 ## Build Setup
