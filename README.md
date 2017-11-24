@@ -1,4 +1,5 @@
 # izh-pms
+数据管理系统demo
 pms v-1.0 未使用vuex bus机制出发组件交互 ;
 # ele ui + axios + vue-router + vue-resource + echarts + iconfont;
 # if help u , plz start it.
